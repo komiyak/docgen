@@ -7,7 +7,7 @@ Transform your postman collection to html documentation
 
 ### Installation
 ```go
-go get -u github.com/thedevsaddam/docgen
+go get -u github.com/komiyak/docgen
 ```
 
 #### Mac
